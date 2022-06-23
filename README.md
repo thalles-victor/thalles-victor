@@ -51,11 +51,11 @@
     <img height="30" src="https://img.shields.io/badge/-ReactJS-696969?logo=react"/>
   </a>
 
-  <a href="https://pt-br.reactjs.org/">
+  <a href="https://tailwindcss.com/">
     <img height="30" src="https://img.shields.io/badge/-ReactJS-696969?logo=tailwindcss"/>
   </a>
 
-  <a href="https://pt-br.reactjs.org/">
+  <a href="https://styled-components.com/">
     <img height="30" src="https://img.shields.io/badge/-StyledComponent-696969?logo=styledcomponents"/>
   </a>
 </center>
