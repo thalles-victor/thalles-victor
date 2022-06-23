@@ -43,6 +43,14 @@
     <img height="30" src="https://img.shields.io/badge/-Kafka-2E8B57?logo=apachekafka"/>
   </a>
 
+  <a href="https://ubuntu.com/download">
+    <img height="30" src="https://img.shields.io/badge/-Linux-FFFAFA?logo=linux"/>
+  </a>
+
+  <a href="https://www.kali.org/">
+    <img height="30" src="https://img.shields.io/badge/-KaliLinux-FFFAFA?logo=kalilinux"/>
+  </a>
+
   </div>
 
   <h1>In front</h1>
