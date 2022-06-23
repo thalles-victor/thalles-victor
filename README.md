@@ -1,5 +1,5 @@
 <center>
-  <h1 style=""> Back End developer with </h1>
+  <h1 style=""> Focus on backend development </h1>
 
   <div style="display: grid; grid-template-columns: auto auto auto auto; gap: 4px; align-items: center; justify-content: center; margin-top: 30px">
 
