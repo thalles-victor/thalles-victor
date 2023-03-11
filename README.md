@@ -1,14 +1,7 @@
 <div>
   <h1 style="">Desenvolvedor web com foco em backend usando NodeJS e TypeScript</h1>
 
-  <center>
-  <img
-    src="https://static.vecteezy.com/system/resources/thumbnails/005/611/079/small_2x/businessman-designing-a-website-by-coding-on-a-desktop-computer-images-for-web-banners-free-vector.jpg"
-  />
-  </center>
-
-
-	
+  ![code](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
 
   ##
 
