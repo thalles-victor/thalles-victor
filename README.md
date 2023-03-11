@@ -1,8 +1,7 @@
 <div>
   <h1 style="">Desenvolvedor web com foco em backend usando NodeJS e TypeScript</h1>
-
-  ![code](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
-
+  <img src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" alt="alt text" width="100%"/>
+  
   ##
 
   > <p>Olá, meu nome é thalles víctor tenho 22 anos e sou desenvolvedor web com foco em back end e sou apaixonado por tecnologia desde pequeno, e nos últimos anos senho trabalhando meus conehcimantos em desenvolvimento web usando nodejs, desde então já conheci e aprendi muita coisa como: Express,API Rest, Graphql, TypeORM, Prisma, NestJS, Docker e muito mais. Tambem compartilho meus conhecimentos de programação em outras redes como: 
