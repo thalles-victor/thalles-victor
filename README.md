@@ -1,69 +1,53 @@
-<center>
-  <h1 style=""> Focus on backend development </h1>
+<div>
+  <h1 style="">Desenvolvedor web com foco em backend usando NodeJS e TypeScript</h1>
 
-  <div style="display: grid; grid-template-columns: auto auto auto auto; gap: 4px; align-items: center; justify-content: center; margin-top: 30px">
+  <center>
+  <img
+    src="https://static.vecteezy.com/system/resources/thumbnails/005/611/079/small_2x/businessman-designing-a-website-by-coding-on-a-desktop-computer-images-for-web-banners-free-vector.jpg"
+  />
+  </center>
+
+
+	
+
+  ##
+
+  > <p>Olá, meu nome é thalles víctor tenho 22 anos e sou desenvolvedor web com foco em back end e sou apaixonado por tecnologia desde pequeno, e nos últimos anos senho trabalhando meus conehcimantos em desenvolvimento web usando nodejs, desde então já conheci e aprendi muita coisa como: Express,API Rest, Graphql, TypeORM, Prisma, NestJS, Docker e muito mais. Tambem compartilho meus conhecimentos de programação em outras redes como: 
+  </p>
+
+  <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img height="30" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+
+  ##
+  
+  <a href="https://www.typescriptlang.org/">
+    <img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </a>
 
   <a href="https://www.typescriptlang.org/">
-    <img height="30" src="https://img.shields.io/badge/-TypeScript-FFFAFA?logo=typescript"/>
+    <img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   </a>
 
-  <a href="http://nestjs.com">
-    <img height="30" src="https://img.shields.io/badge/-NestJS-DC143C?logo=nestjs"/>
-  </a>
-
-  <a href="https://expressjs.com/">
-    <img height="30" src="https://img.shields.io/badge/-Express-32CD32?logo=express"/>
-  </a>
-
-  <a href="https://www.docker.com/">
-    <img height="30" src="https://img.shields.io/badge/-Docker-FFFAFA?logo=docker"/>
-  </a>
-
-  <a href="https://graphql.org/">
-    <img height="30" src="https://img.shields.io/badge/-GraphQL-FF00FF?logo=graphql"/>
-  </a>
-
-  <a href="https://www.prisma.io/">
-    <img height="30" src="https://img.shields.io/badge/-Prisma-191970?logo=prisma"/>
-  </a>
-
-  <a href="https://typeorm.io/">
-    <img height="30" src="https://img.shields.io/badge/-TypeORM-DEB887?logo=typeorm"/>
-  </a>
-
-  <a href="https://www.postgresql.org/">
-    <img height="30" src="https://img.shields.io/badge/-PostgresQL-FFFAFA?logo=postgresql"/>
+  <a href="https://www.typescriptlang.org/">
+    <img height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   </a>
   
-  <a href="https://typeorm.io/">
-    <img height="30" src="https://img.shields.io/badge/-MySQL-FFFAFA?logo=mysql"/>
+  <a href="https://www.typescriptlang.org/">
+    <img height="30" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  </a>
+  
+  <a href="https://www.typescriptlang.org/">
+    <img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>
 
-  <a href="https://www.mysql.com/">
-    <img height="30" src="https://img.shields.io/badge/-Kafka-2E8B57?logo=apachekafka"/>
+  <a href="https://www.typescriptlang.org/">
+    <img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </a>
 
-  <a href="https://ubuntu.com/download">
-    <img height="30" src="https://img.shields.io/badge/-Linux-FFFAFA?logo=linux"/>
+  <a href="https://www.typescriptlang.org/">
+    <img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   </a>
 
-  <a href="https://www.kali.org/">
-    <img height="30" src="https://img.shields.io/badge/-KaliLinux-FFFAFA?logo=kalilinux"/>
+  <a href="https://www.typescriptlang.org/">
+    <img height="30" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
-
-  </div>
-
-  <h1>In front</h1>
-
-  <a href="https://pt-br.reactjs.org/">
-    <img height="30" src="https://img.shields.io/badge/-ReactJS-696969?logo=react"/>
-  </a>
-
-  <a href="https://tailwindcss.com/">
-    <img height="30" src="https://img.shields.io/badge/-ReactJS-696969?logo=tailwindcss"/>
-  </a>
-
-  <a href="https://styled-components.com/">
-    <img height="30" src="https://img.shields.io/badge/-StyledComponent-696969?logo=styledcomponents"/>
-  </a>
-</center>
