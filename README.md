@@ -6,9 +6,14 @@
 
   > <p>Olá, meu nome é thalles víctor tenho 22 anos e sou desenvolvedor web com foco em back end e sou apaixonado por tecnologia desde pequeno, e nos últimos anos senho trabalhando meus conehcimantos em desenvolvimento web usando nodejs, desde então já conheci e aprendi muita coisa como: Express,API Rest, Graphql, TypeORM, Prisma, NestJS, Docker e muito mais. Tambem compartilho meus conhecimentos de programação em outras redes como: 
   </p>
-
-  <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  
+  <a href="https://www.linkedin.com/in/thalles-v%C3%ADctor-760114208/">
+    <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://www.youtube.com/@userUndefined404/">
   <img height="30" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 
   ##
   
